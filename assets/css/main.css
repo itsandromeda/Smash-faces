@@ -1,0 +1,26 @@
+* {
+    color: #333;
+}
+
+body {
+    padding: 1em 15em;
+}
+
+header h1 {
+    font-family: 'Rokkitt', serif;
+    margin-bottom: 0.1em;
+}
+
+header hr {
+    width: 30px;
+    margin: 0;
+    border: 2px solid #000;
+}
+
+header p {
+    font-family: 'Roboto', sans-serif;
+}
+
+select {
+    background-color: #ccc;
+}
